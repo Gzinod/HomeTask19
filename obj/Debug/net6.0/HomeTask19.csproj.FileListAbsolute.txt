@@ -1,0 +1,15 @@
+C:\Games\Study\homework\C#FirstHK\HomeTask19\bin\Debug\net6.0\HomeTask19.exe
+C:\Games\Study\homework\C#FirstHK\HomeTask19\bin\Debug\net6.0\HomeTask19.deps.json
+C:\Games\Study\homework\C#FirstHK\HomeTask19\bin\Debug\net6.0\HomeTask19.runtimeconfig.json
+C:\Games\Study\homework\C#FirstHK\HomeTask19\bin\Debug\net6.0\HomeTask19.dll
+C:\Games\Study\homework\C#FirstHK\HomeTask19\bin\Debug\net6.0\HomeTask19.pdb
+C:\Games\Study\homework\C#FirstHK\HomeTask19\obj\Debug\net6.0\HomeTask19.csproj.AssemblyReference.cache
+C:\Games\Study\homework\C#FirstHK\HomeTask19\obj\Debug\net6.0\HomeTask19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\Study\homework\C#FirstHK\HomeTask19\obj\Debug\net6.0\HomeTask19.AssemblyInfoInputs.cache
+C:\Games\Study\homework\C#FirstHK\HomeTask19\obj\Debug\net6.0\HomeTask19.AssemblyInfo.cs
+C:\Games\Study\homework\C#FirstHK\HomeTask19\obj\Debug\net6.0\HomeTask19.csproj.CoreCompileInputs.cache
+C:\Games\Study\homework\C#FirstHK\HomeTask19\obj\Debug\net6.0\HomeTask19.dll
+C:\Games\Study\homework\C#FirstHK\HomeTask19\obj\Debug\net6.0\refint\HomeTask19.dll
+C:\Games\Study\homework\C#FirstHK\HomeTask19\obj\Debug\net6.0\HomeTask19.pdb
+C:\Games\Study\homework\C#FirstHK\HomeTask19\obj\Debug\net6.0\HomeTask19.genruntimeconfig.cache
+C:\Games\Study\homework\C#FirstHK\HomeTask19\obj\Debug\net6.0\ref\HomeTask19.dll
